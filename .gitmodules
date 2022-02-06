@@ -1,0 +1,3 @@
+[submodule "BSK_GitTraining_Submodule"]
+	path = BSK_GitTraining_Submodule
+	url = https://github.com/MGgalal/BSK_GitTraining_Submodule.git
